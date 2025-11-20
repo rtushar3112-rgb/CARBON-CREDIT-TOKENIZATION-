@@ -22,3 +22,5 @@ To leverage blockchain technology to create a **transparent, auditable, and liqu
 * **Governance:** Introduce a Decentralized Autonomous Organization (DAO) to govern minting rules, project selection, and registry updates.
 * **Fractionalization:** Allow for the tokenization of fractional carbon credits, enhancing liquidity for smaller investors.
 * 0x3835b2E9BDf58653A4ea801bF57ACB3460e639b8
+* <img width="1396" height="636" alt="image" src="https://github.com/user-attachments/assets/ead73b0b-0138-4d22-9cc0-ad2007c43d7d" />
+
